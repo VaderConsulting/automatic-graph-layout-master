@@ -83,6 +83,10 @@ NuGet packages in `GraphLayout/packages/`: MathNet.Numerics 2.6.1, VSSDK.GraphMo
 
 Open **`GraphLayout/GraphLayout.sln`** in Visual Studio 2015 or later (solution format 12.00 / Visual Studio 14; `.csproj` ToolsVersion 4.0). Build `Msagl`, then `drawing`, then `GraphViewerGDI` (the last will fail until `Draw.cs` is restored from upstream). Sample entry point: `Samples/WindowsApplicationSample`. Optional: `GraphLayout/Lg.sln` for Graphmaps. Silverlight and SharpKit projects are opened from their own `.csproj` files.
 
+## Requirements
+
+- Visual Studio 2012 to 2015, .NET Framework 3.5, .NET Framework 4.0, .NET Framework 5.0
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `automatic-graph-layout-master`.

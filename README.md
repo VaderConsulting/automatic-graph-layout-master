@@ -89,7 +89,7 @@ Open **`GraphLayout/GraphLayout.sln`** in Visual Studio 2015 or later (solution 
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `automatic-graph-layout-master`.
+Working copy from my Historical Dev folder `automatic-graph-layout-master`.
 
 - **Authors:** Lev Nachmanson, Sergey Pupyrev, Tim Dwyer, Ted Hart (Microsoft)
 - **Assembly company:** MS

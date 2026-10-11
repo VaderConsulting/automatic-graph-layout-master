@@ -10,5 +10,5 @@ This tree is **Microsoft Automatic Graph Layout (MSAGL)**, not VaderConsulting-a
 - **GraphViz DOT samples** — test fixtures under `Test/MSAGLTests/Resources/DotFiles` (third-party graph examples; author emails in comments kept).
 
 Original license terms apply; this repository does not claim authorship.
-Do not treat this repository as Dave Robinson / VaderConsulting MIT-licensed original work.
+Do not treat this repository as Dave Robinson / Vader Consulting MIT-licensed original work.
 VaderConsulting/Dave Robinson did not author the third-party portions identified above.
